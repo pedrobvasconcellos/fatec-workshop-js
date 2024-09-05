@@ -1,5 +1,7 @@
 # Fatec Jahu Workshop JS
 
+Pedro Henrique Bueno Vasconcellos | 3° Desenvolvimento de Softwares Multiplataforma
+
 Corrija o código a abaixo.
 
 ```js
